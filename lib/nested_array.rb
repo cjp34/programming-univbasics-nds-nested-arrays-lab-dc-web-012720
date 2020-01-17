@@ -24,7 +24,7 @@ end
 
 def sorted_matrix
   shelf = [["Eggplant", "Grapefruit", "Oranges", "Pineapple", "Watermelon"],
-    ["Asparagus", "Avocados", "Grapes", "Potatoes", "Strawberries"]]
+    ["Asparagus", "Avocadoes", "Grapes", "Potatoes", "Strawberries"]]
 end
 
 def matrix_lookup(matrix, row, column)

@@ -23,7 +23,7 @@ def assembled_matrix
 end
 
 def sorted_matrix
-  shelf = [[“Asparagus”, “Avocados”, “Grapes”, “Potatoes”, “Strawberries”]
+  shelf = [[“Asparagus”, “Avocados”, “Grapes”, “Potatoes”, “Strawberries”],
   [“Eggplant”, “Grapefruit”, “Oranges”, “Pineapple”, “Watermelon”]]
 end
 

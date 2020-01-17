@@ -23,7 +23,8 @@ def assembled_matrix
 end
 
 def sorted_matrix
-  shelf = []
+  shelf = [[“Asparagus”, “Avocados”, “Grapes”, “Potatoes”, “Strawberries”]
+  ]
 end
 
 def matrix_lookup(matrix, row, column)
